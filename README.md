@@ -5,7 +5,7 @@ This project focuses on classifying waste materials into distinct categories usi
 
 Dataset
 
-The dataset used in this project is sourced from Kaggle: Waste Classification Data. It contains images of various types of waste categorized into two main classes:
+The dataset used in this project is sourced from Kaggle: Waste Classification Data https://www.kaggle.com/datasets/techsash/waste-classification-data/data. It contains images of various types of waste categorized into two main classes:
 
 Organic Waste: Includes biodegradable items such as food scraps, paper, and garden waste.
 
